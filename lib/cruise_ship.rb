@@ -7,4 +7,3 @@ passengers.each do |suite, name|
   winner
 end
  
-winner
