@@ -7,4 +7,3 @@ winner = ""
   end
   winner
 end
- 
